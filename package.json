@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/Ernjivi/webpack-demo/issues"
   },
-  "homepage": "https://github.com/Ernjivi/webpack-demo#readme"
+  "homepage": "https://github.com/Ernjivi/webpack-demo#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^4.26.1",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.10"
+  }
 }
